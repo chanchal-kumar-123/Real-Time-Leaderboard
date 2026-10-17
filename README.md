@@ -39,7 +39,7 @@ This project is a real-time leaderboard system that allows users to submit their
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/real-time-leaderboard.git
+   git clone https://github.com/chanchal-kumar-123/real-time-leaderboard.git
    cd real-time-leaderboard
    ```
 
